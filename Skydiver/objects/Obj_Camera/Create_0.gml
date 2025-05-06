@@ -1,0 +1,15 @@
+OG_view_width = 1376
+OG_view_height = 768
+lerp_spd = 1.0;
+is_shaking = false;
+is_small_shaking = false;
+small_magnitude = 20;
+shake_magnitude = 30;
+shake_time = 2;
+shake_fade = 3;
+focus = false;
+focus_time = 45
+focusZoom = 1.0;
+normal_speed = 60;
+slowed = false;
+current_gmspeed = normal_speed
